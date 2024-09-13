@@ -1,3 +1,3 @@
 INSTRUCCION
 
-1. Para editar los datos debe seleccionar primero los datos actualizar de la lista
+1. Para editar los datos agragados debe seleccionar primero dicho dato a editar de la lista seguido dar click en el boton Editar
